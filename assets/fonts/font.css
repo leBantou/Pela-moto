@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Otamendi';
+    src: url('Otamendi.eot?#iefix') format('embedded-opentype'),  url('Otamendi.otf')  format('opentype'),
+           url('Otamendi.woff') format('woff'), url('Otamendi.ttf')  format('truetype'), url('Otamendi.svg#Otamendi') format('svg');
+    
+  }
+  .moto
+{
+    font-family: 'Otamendi';
+    font-weight: normal;
+    font-style: normal;
+    color:#5B083C;
+}  
