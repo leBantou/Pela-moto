@@ -8,11 +8,19 @@
 {
     background-color: #ffc857;
 }
+.logo
+{
+  width: 500px;
+}
+.color
+{
+  background-color: #5B083C;
+}
 .masthead {
     margin-bottom: 2rem;
   }
   .slider_bg_1 {
-    background-color: #ffc857;
+    background-color:#ffe66d;
   }
   .masthead-brand {
     font-size: 40px;
