@@ -2,13 +2,7 @@
 {
   scroll-behavior: smooth;
 } */
-.masthead-brand
-{
- position: relative;
-    width: 170px;
-    left: 15px;
-    background-size: contain;
-}
+
 .m
 {
   width: 150px;
@@ -87,7 +81,13 @@ footer
   /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
   margin-top: 10px;
 }
+.brand
+{
+ width: 152px;
+ height: 80px;
+ padding-bottom: 15px; 
 
+}
 .masthead {
     margin-bottom: -15px;
   }
