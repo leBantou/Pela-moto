@@ -81,10 +81,20 @@ footer
   /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
   margin-top: 10px;
 }
+<<<<<<< HEAD
  .sp
 {
  padding-bottom: 5px; 
 } 
+=======
+.brand
+{
+ width: 152px;
+ height: 80px;
+ padding-bottom: 15px; 
+
+}
+>>>>>>> 6b358edbc7bfcf01762616fc40bba3998d246be7
 .masthead {
     margin-bottom: -15px;
   }
